@@ -48,5 +48,6 @@ para apoyar decisiones comerciales estratégicas.
 - Excel (fuente de datos)
 
 ---
-<img width="1307" height="737" alt="image" src="https://github.com/user-attachments/assets/6310e3f4-618c-4cbd-83be-539064812019" />
+<img width="1313" height="738" alt="image" src="https://github.com/user-attachments/assets/e0423e4f-f18f-4d29-b520-9d5755821646" />
+
 
